@@ -1,7 +1,6 @@
 package mypack1;
 
-import java.io.PrintStream;
-import java.nio.channels.ScatteringByteChannel;
+
 import java.util.Scanner;
 
 public class First {

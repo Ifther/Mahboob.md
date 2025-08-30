@@ -11,7 +11,7 @@ public class Seven {
         int j = 1;
         System.out.print(i + " ");
         System.out.print(j + " ");
-        while (count > 0) {
+        while (count > 2) {
             int x = j;
             j = i + j;
             i = x;
